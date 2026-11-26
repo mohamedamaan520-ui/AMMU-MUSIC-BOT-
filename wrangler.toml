@@ -1,0 +1,8 @@
+name = "ammu-music-bot"
+main = "src/index.js"
+compatibility_date = "2026-11-27"
+
+# Set secrets with:
+# npx wrangler secret put VERIFY_TOKEN
+# npx wrangler secret put WHATSAPP_TOKEN
+# npx wrangler secret put PHONE_NUMBER_ID
